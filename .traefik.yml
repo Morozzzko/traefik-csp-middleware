@@ -1,6 +1,6 @@
-displayName: Rewrite Body with CSP (with compression support)
+displayName: Rewrite Body with CSP (with compression support) / test outside org
 
-summary: A fork of Rewrite Body w/ compression support to post-process static pages and add nonces to them
+summary: A fork of Rewrite Body w/ compression support to post-process static pages and add nonces to them. Copy of joinrepublic's version to debug 5xx error
 
 type: middleware
 
