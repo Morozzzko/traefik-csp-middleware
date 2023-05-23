@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/morozzzko/traefik-csp-middleware/logger"
+	"github.com/Morozzzko/traefik-csp-middleware/logger"
 )
 
 func TestGetEncodingTarget(t *testing.T) {

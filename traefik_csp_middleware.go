@@ -5,7 +5,7 @@ import (
 	"context"
 	"net/http"
 
-	"github.com/morozzzko/traefik-csp-middleware/handler"
+	"github.com/Morozzzko/traefik-csp-middleware/handler"
 )
 
 // CreateConfig creates and initializes the plugin configuration.

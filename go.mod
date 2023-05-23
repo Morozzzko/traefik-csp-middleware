@@ -1,3 +1,3 @@
-module github.com/morozzzko/traefik-csp-middleware
+module github.com/Morozzzko/traefik-csp-middleware
 
 go 1.16

@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/morozzzko/traefik-csp-middleware/compressutil"
-	"github.com/morozzzko/traefik-csp-middleware/handler"
+	"github.com/Morozzzko/traefik-csp-middleware/compressutil"
+	"github.com/Morozzzko/traefik-csp-middleware/handler"
 )
 
 func TestServeHTTP(t *testing.T) {

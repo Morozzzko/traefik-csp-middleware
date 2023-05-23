@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"testing"
 
-	"github.com/morozzzko/traefik-csp-middleware/httputil"
+	"github.com/Morozzzko/traefik-csp-middleware/httputil"
 )
 
 func TestMonitoringConfigParsing(t *testing.T) {

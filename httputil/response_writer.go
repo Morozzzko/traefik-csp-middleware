@@ -10,8 +10,8 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/morozzzko/traefik-csp-middleware/compressutil"
-	"github.com/morozzzko/traefik-csp-middleware/logger"
+	"github.com/Morozzzko/traefik-csp-middleware/compressutil"
+	"github.com/Morozzzko/traefik-csp-middleware/logger"
 )
 
 // ResponseWrapper a wrapper used to simplify ResponseWriter data access and manipulation.
