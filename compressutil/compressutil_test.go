@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/joinrepublic/traefik-csp-middleware/compressutil"
+	"github.com/morozzzko/traefik-csp-middleware/compressutil"
 )
 
 type TestStruct struct {
